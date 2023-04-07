@@ -1,0 +1,6 @@
+[submodule "HouseAssistant-Front"]
+	path = HouseAssistant-Front
+	url = https://github.com/leofunow/HouseAssistant-Front.git
+[submodule "house-assistance-back"]
+	path = house-assistance-back
+	url = https://github.com/Mkkysh/house-assistance-back.git
